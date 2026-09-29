@@ -1,2 +1,5 @@
-# inkk-releases
-Downloads for inkk, the Mac app
+# inkk
+
+This repository holds the signed and notarised disk images of inkk, the Mac app.
+
+Download it from [inkk.site/download](https://inkk.site/download).
